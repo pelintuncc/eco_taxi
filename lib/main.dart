@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-pelopeeelll
+
 void main() {
   runApp(const MyApp());
 }
@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title),
+        title: Text("egedenemesi"),
       ),
       body: Center(
         // Center is a layout widget. It takes a single child and positions it
@@ -96,7 +96,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'You have pushed the button this many timesssss:'
+              'sdfsssdfssdfs' ,
             ),
             Text(
               '$_counter',
